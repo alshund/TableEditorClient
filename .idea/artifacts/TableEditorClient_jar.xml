@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TableEditorClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TableEditorClient_jar</output-path>
+    <root id="archive" name="TableEditorClient.jar">
+      <element id="module-output" name="TableEditorClient" />
+    </root>
+  </artifact>
+</component>
